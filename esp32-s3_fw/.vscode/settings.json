@@ -1,0 +1,12 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "files.associations": {
+        "esp_spi_flash.h": "c",
+        "task.h": "c",
+        "esp_chip_info.h": "c",
+        "qbuffer.h": "c",
+        "def.h": "c",
+        "hw_def.h": "c",
+        "uart.h": "c"
+    }
+}
